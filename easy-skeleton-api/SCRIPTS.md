@@ -10,8 +10,8 @@ Aqui você encontra informações sobre a utilização de cada script utilizando
 	"posttest": "NODE_ENV=test sequelize db:migrate:undo:all",
 	"test:unit": "npm test -c jest-unit-config.js",
 	"test:integration": "npm test -c jest-integration-config.js",
-"test:ci": "npm test -- --coverage",
-"test:staged": "npm test -- --findRelatedTests"
+	"test:ci": "npm test -- --coverage",
+	"test:staged": "npm test -- --findRelatedTests"
 }
 ```
 | comando | descrição |
