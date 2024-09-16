@@ -1,3 +1,7 @@
+#### 2.0.0
+
+- Conversão do projeto para o uso do typescript
+
 #### 1.1.1
 
 - Aplicando Repository Pattern
