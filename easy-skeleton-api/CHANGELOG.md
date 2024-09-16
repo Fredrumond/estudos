@@ -1,5 +1,6 @@
 #### 2.0.0
 
+- Configuração do docker
 - Conversão do projeto para o uso do typescript
 
 #### 1.1.1
